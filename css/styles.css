@@ -153,3 +153,9 @@ div {
 	width: 920px;
     height: 200px;
 }
+
+#imagepos{
+	position: fixed;
+	bottom: 400px;
+	left: 418px;
+}
