@@ -88,3 +88,11 @@ img {
 	color: #FFF;
 	background: url(images/menu_hover.gif) center top repeat-x;
 }
+
+#top_panel {
+	clear: both;
+	width: 960px;
+	height: 450px;
+	padding: 30px;
+	background: url(images/top_panel.png) repeat-y;	
+}
