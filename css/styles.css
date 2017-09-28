@@ -83,3 +83,8 @@ img {
 	color: #FFF;
 	outline: none;
 }
+
+#menu li a:hover, #menu li .current{
+	color: #FFF;
+	background: url(images/menu_hover.gif) center top repeat-x;
+}
