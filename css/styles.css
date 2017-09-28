@@ -159,3 +159,19 @@ div {
 	bottom: 400px;
 	left: 418px;
 }
+
+#p1{
+	position: fixed;
+	bottom: 240px;
+	left: 185px;
+}
+#p2{
+	position: fixed;
+	bottom: 240px;
+	left: 385px;
+}
+#p3{
+	position: fixed;
+	bottom: 240px;
+	left: 585px;
+}
