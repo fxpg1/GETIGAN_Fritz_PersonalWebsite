@@ -12,6 +12,9 @@ p {
 	margin: 0px;
 	padding: 0px;
 	font-size:14;
+	color:white;
+	font-size:15px;
+	text-align: center;
 }
 
 h4{
@@ -48,4 +51,11 @@ img {
 	color: white;
 	font-weight: normal;
 	font-family: Habbo;
+}
+
+#menu {
+	clear: both;
+	width: 980px;
+	height: 65px;
+	background: url(images/menu.png) no-repeat;
 }
