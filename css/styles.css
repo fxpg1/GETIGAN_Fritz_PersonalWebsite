@@ -17,3 +17,9 @@ p {
 h4{
 color:#f7951e;
 }
+
+img {
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
