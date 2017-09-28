@@ -112,3 +112,9 @@ img {
 	padding: 30px;
 	background: url(images/top_panel.png) repeat-y;	
 }
+
+#main p {
+	text-align: justify;
+	margin-bottom: 10px;
+
+	}
