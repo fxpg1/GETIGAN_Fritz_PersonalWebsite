@@ -116,5 +116,15 @@ img {
 #main p {
 	text-align: justify;
 	margin-bottom: 10px;
+}
 
-	}
+.top_panel_section .project_title a{
+	display: block;
+	text-align: center;
+	padding: 0 0 5px 0;
+	font-size: 22px;
+	color: #FC0;
+	font-weight: bold;	
+	text-decoration: none;
+	outline: none;
+}
