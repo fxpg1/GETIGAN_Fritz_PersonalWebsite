@@ -17,6 +17,13 @@ p {
 	text-align: center;
 }
 
+h2 {
+	padding:5px 0 5px 0;
+	margin:0px;
+	font-size:25px;
+	color:#f7951e;
+}
+
 h4{
 	color:#f7951e;
 	margin: 0px;
