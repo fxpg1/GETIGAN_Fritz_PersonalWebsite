@@ -128,3 +128,16 @@ img {
 	text-decoration: none;
 	outline: none;
 }
+
+#footer {
+	clear: both;
+	color: #ffffff;
+	width: 960px;
+	height: 60px;
+	padding: 30px 10px 0 10px;
+	text-align: center;
+	background: url(images/footer.png) no-repeat;
+	position: fixed;
+	bottom: 170px;
+	left: 350px;
+}
