@@ -40,3 +40,12 @@ img {
 	padding: 0 10px;
 	background: url(images/header.png) no-repeat;
 }
+
+#header #site_title {
+	padding: 40px 0 20px 30px;
+	font-size: 20px;
+	letter-spacing: 22px;
+	color: white;
+	font-weight: normal;
+	font-family: Habbo;
+}
