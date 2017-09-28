@@ -69,3 +69,17 @@ img {
 #menu ul li{
 	display: inline;
 }
+
+#menu ul li a{
+	float: left;
+	padding: 12px 0 0 0;
+	width: 313px;
+	height: 38px;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	color: #FFF;
+	outline: none;
+}
