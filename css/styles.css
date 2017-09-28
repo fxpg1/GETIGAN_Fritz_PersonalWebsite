@@ -97,6 +97,14 @@ img {
 	background: url(images/top_panel.png) repeat-y;	
 }
 
+#top_panel1 {
+	clear: both;
+	width: 960px;
+	height: 450px;
+	padding: 30px;
+	background: url(images/top_panel.png) repeat-y;	
+}
+
 #top_panel2{
 	clear: both;
 	width: 960px;
