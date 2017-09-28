@@ -1,0 +1,1 @@
+# GETIGAN_Fritz_PersonalWebsite
