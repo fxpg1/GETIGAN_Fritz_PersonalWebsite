@@ -1,7 +1,4 @@
-font face {
-	font-family: HabboFont;
-	src: url(font/HabboFont.tff);
-}
+
 body {
 	margin: 0;
 	padding: 0;
@@ -63,7 +60,7 @@ h4 {
 	letter-spacing: 22px;
 	color: #f7951e;
 	font-weight: normal;
-	font-family: HabboFont;
+	font-family: 'BioRhyme Expanded', serif;
 	font-style: normal;
 }
 
