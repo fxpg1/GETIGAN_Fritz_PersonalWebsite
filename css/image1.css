@@ -13,21 +13,21 @@ linear-gradient(120deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rg
 background-size: 70px 120px;
 }
 #img{
-	position: fixed;
-	bottom: 250px;
-	left: 550px;
+	position: absolute;
+	bottom: 30%;
+	left: 33.5%;
 }
 
 #img1{
-	position: fixed;
-	bottom: 250px;
-	left: 500px;
+	position: absolute;
+	bottom: 25%;
+	left: 29%;
 }
 
 #img2{
-	position: fixed;
-	bottom: 250px;
-	left: 670px;
+	position: absolute;
+	bottom: 30%;
+	left: 40%;
 }
 .back {
   position: relative;
