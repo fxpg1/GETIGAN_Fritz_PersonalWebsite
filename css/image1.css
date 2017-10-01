@@ -27,7 +27,7 @@ background-size: 70px 120px;
 #img2{
 	position: absolute;
 	bottom: 30%;
-	left: 40%;
+	left: 39%;
 }
 .back {
   position: relative;
@@ -105,7 +105,7 @@ background-size: 70px 120px;
 }
 
 #btn{
-	position: fixed;
-	bottom: 100px;
-	left: 750px;
+	position: absolute;
+	bottom: 13%;
+	left: 44%;
 }
