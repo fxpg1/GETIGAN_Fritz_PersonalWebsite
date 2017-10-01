@@ -227,3 +227,13 @@ div{
 	bottom: 350px;
 	left:400px;
 }
+#mine{
+	position: fixed;
+	bottom: 550px;
+	left: 600px;
+}
+#w{
+	position: fixed;
+	bottom: 250px;
+	left: 300px;
+}
