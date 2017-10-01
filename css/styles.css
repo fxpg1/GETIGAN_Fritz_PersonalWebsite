@@ -1,3 +1,7 @@
+font face {
+	font-family: HabboFont;
+	src: url(font/HabboFont.tff);
+}
 body {
 	margin: 0;
 	padding: 0;
@@ -57,9 +61,10 @@ h4 {
 	padding: 40px 0 20px 30px;
 	font-size: 20px;
 	letter-spacing: 22px;
-	color: white;
+	color: #f7951e;
 	font-weight: normal;
-	font-family: Habbo;
+	font-family: HabboFont;
+	font-style: normal;
 }
 
 h3{
@@ -69,7 +74,7 @@ h3{
 p
 {	color:white;
 	font-size:15px;
-	text-align: center;
+	text-align: left;
 }
 
 #menu {
@@ -168,7 +173,7 @@ font-size:25px;
 color:#f7951e;
 }
 
-div {
+div{
 	width: 920px;
     height: 200px;
 }
@@ -179,18 +184,46 @@ div {
 	left: 418px;
 }
 
-#p1{
+#me{
 	position: fixed;
-	bottom: 240px;
-	left: 185px;
-}
-#p2{
-	position: fixed;
-	bottom: 240px;
-	left: 385px;
-}
-#p3{
-	position: fixed;
-	bottom: 240px;
+	bottom: 550px;
 	left: 585px;
+}
+#profile{
+	position: fixed;
+	bottom: 550px;
+	left: 540px;
+}
+#let{
+	width: 500px;
+	height: 200px;
+	position: fixed;
+	left: 780px;
+}
+#picme{
+	position: fixed;
+	bottom: 480px;
+	left: 330px;
+}
+#skill{
+	width: 920px;
+	height: 200px;
+	position: fixed;
+	bottom: 500px;
+	left: 380px;
+}
+#work{
+	width: 920px;
+	position: fixed;
+	bottom: 400px;
+	left: 380px;
+}
+#k{
+	text-align: left;
+}
+
+#kk{
+	position: fixed;
+	bottom: 350px;
+	left:400px;
 }
