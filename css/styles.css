@@ -175,17 +175,6 @@ div{
     height: 200px;
 }
 
-#imagepos{
-	position: fixed;
-	bottom: 400px;
-	left: 418px;
-}
-
-#me{
-	position: fixed;
-	bottom: 550px;
-	left: 585px;
-}
 #profile{
 	position: absolute;
 	top: 20%;
@@ -209,12 +198,6 @@ div{
 	position: absolute;
 	top: 28%;
 	left: 23%;
-}
-#work{
-	width: 920px;
-	position: fixed;
-	bottom: 400px;
-	left: 380px;
 }
 #k{
 	text-align: left;
