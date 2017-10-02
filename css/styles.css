@@ -74,8 +74,8 @@ h4 {
 }
 
 h3{
-	font-size: 25px;
-	color: red;
+	font-size: 13px;
+	color: white;
 }
 p
 {	color:white;
@@ -226,4 +226,27 @@ div{
 	position: absolute;
 	top: 220%;
 	left: -10%;
+}
+a:link {
+    color: green; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f7951e;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
 }
